@@ -1,0 +1,24 @@
+{
+    "file": "data/Gemini_Generated_Image_ghhom5ghhom5ghho (1).jpg",
+    "timestamp": "2026-01-30 03:09:50.846235",
+    "classification": "HYBRID",
+    "ai_score": 2,
+    "tamper_score": 2,
+    "fraud_risk": 54,
+    "forensic_vector": {
+        "NOISE_STD": 14.186527252197266,
+        "NOISE_GAUSS_P": 0.0,
+        "NOISE_ISOTROPY": -5.783599204693459,
+        "NOISE_AUTOCORR": -256.0876770019531,
+        "CFA_PERIOD": 0.05436686686687153,
+        "FREQ_MEAN": 8.130780341362563,
+        "FREQ_STD": 0.8221918810582814,
+        "DIFFUSION_SYM": 8.122030258178711,
+        "WAVELET": 32899201.00000001,
+        "ENTROPY": 5.225854069765997,
+        "EDGE_MEAN": 0.048456054834449015,
+        "EDGE_STD": 0.08685371634367815,
+        "TEXTURE": 48.23144517846562,
+        "METADATA": 0
+    }
+}

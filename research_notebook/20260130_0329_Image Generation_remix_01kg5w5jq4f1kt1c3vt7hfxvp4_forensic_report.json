@@ -1,0 +1,24 @@
+{
+    "file": "data/sora_data/20260130_0329_Image Generation_remix_01kg5w5jq4f1kt1c3vt7hfxvp4.png",
+    "timestamp": "2026-01-30 03:33:30.096182",
+    "classification": "NATURAL",
+    "ai_score": 2,
+    "tamper_score": 1,
+    "fraud_risk": 42,
+    "forensic_vector": {
+        "NOISE_STD": 22.7846622467041,
+        "NOISE_GAUSS_P": 0.0,
+        "NOISE_ISOTROPY": 5.761907622459276,
+        "NOISE_AUTOCORR": -122.14063262939453,
+        "CFA_PERIOD": 0.6565704345703125,
+        "FREQ_MEAN": 8.65757824464221,
+        "FREQ_STD": 0.7404864397908704,
+        "DIFFUSION_SYM": 8.606842041015625,
+        "WAVELET": 99690075.37500003,
+        "ENTROPY": 2.9511015078308978,
+        "EDGE_MEAN": 0.06823007588853887,
+        "EDGE_STD": 0.16374604687077346,
+        "TEXTURE": 54.342810293671704,
+        "METADATA": 0
+    }
+}

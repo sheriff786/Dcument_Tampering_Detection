@@ -1,0 +1,12 @@
+ipykernel
+numpy
+pandas
+seaborn
+opencv-python 
+pywavelets 
+pillow 
+scipy 
+matplotlib 
+scikit-image 
+exifread 
+imagehash
